@@ -7,10 +7,11 @@
 		<img src="Logo.jpg" />
 	</head>
 	<body>
-			<form action="oi" method="post" >
+			<form action="Erro.html" method="get" >
 		<h1>Bem Vindo A Casa De Apostas Ravagnani</h1>
 		<h2> Aberto As Apostas Para A Copa Das Confederações</h2>
-		<p class="Intro"> Favor Confirme os Seus Dados</br>
+		<h3> Favor Confira os Seus Dados e Suas Apostas</h3></br>
+		<p class="Intro">
 		Nome: ${param.nome} </br>
 		Sexo: ${param.sexo} </br>
 		Email: ${param.email} </br>
