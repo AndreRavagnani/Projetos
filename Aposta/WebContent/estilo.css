@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+h1,h2,h3{
+	text-align: center;
+}
+body{
+	padding: 10px;
+	border: 1px solid black;
+	background-image: url(bola.jpg);
+	background-repeat: repeat-x;
+	background-position: bottom right;
+	background-color: #FFFFF0;
+	color: black;
+	font-family: sans-serif;
+	font-weight:bolder;
+}
+p.Intro{
+	text-align: center;
+}
+#grupoA{
+	padding: 10px;
+	border: 1px solid black;
+	width: 590px;
+	float: left;
+	text-align: justify;
+}
+
+#grupoB{
+	text-align: justify;
+	float: right;
+	padding: 10px;
+	border: 1px solid black;
+	width: 590px;
+}
+p.submit{
+text-align: center;
+}
